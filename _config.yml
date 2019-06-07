@@ -5,16 +5,16 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: Light & Wing's Garden
 # 描述/签名
-description: 一个可以fork的博客
+description: 修学储能 以行践言
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559930702752&di=3bd805156df77a8b2c2fdff610e7d066&imgtype=0&src=http%3A%2F%2Fimg.duoziwang.com%2F2018%2F01%2F2023550638025.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
@@ -32,7 +32,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 9
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
@@ -53,7 +53,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: 向往一个关于诗与文字的奇幻世界
 
 # 输入Disqus shortname，即可添加评论区，细节可阅读文档。
 disqus: loffer #shortname
