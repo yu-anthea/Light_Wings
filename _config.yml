@@ -17,7 +17,7 @@ description: 修学储能 以行践言
 avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559930702752&di=3bd805156df77a8b2c2fdff610e7d066&imgtype=0&src=http%3A%2F%2Fimg.duoziwang.com%2F2018%2F01%2F2023550638025.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: 
+favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 
 # 菜单中的按钮
@@ -36,21 +36,21 @@ paginate: 9
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<>
-  dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
-  facebook: #https://www.facebook.com/<>
-  flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
-  instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
-  pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
-  stackoverflow: # http://stackoverflow.com/<>
-  tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  weibo: 
+  behance: 
+  dribbble:
+  email: 
+  facebook: 
+  flickr: 
+  github: 
+  instagram: 
+  linkedin:
+  pinterest: 
+  rss: 
+  stackoverflow: 
+  tumblr: 
+  twitter: 
+  youtube: 
 
 # 站点页脚的文字
 footer-text: 向往一个关于诗与文字的奇幻世界
